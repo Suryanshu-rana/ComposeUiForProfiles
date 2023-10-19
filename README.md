@@ -23,3 +23,9 @@ Before getting started, make sure you have the following:
 
    ```shell
    git clone https://github.com/Suryanshu-rana/ComposeUiForProfiles.git
+
+## App Overview
+![Screenshot_20231019-151622](https://github.com/Suryanshu-rana/ComposeUiForProfiles/assets/61387349/2f7dca58-eba8-405f-b0b1-4a9bfa926609)
+
+
+
